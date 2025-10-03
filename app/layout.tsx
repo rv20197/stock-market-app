@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Stock View',
-  description: 'Stock View is a simple stock viewer app which tracks your favorite stocks, gives price alerts and much more.',
+  title: 'Signalist',
+  description:
+    'Signalist is a simple stock tracking app which tracks your favorite stocks, gives price alerts and much more.',
 };
 
 export default function RootLayout({
